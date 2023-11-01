@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<mail>
+    <destinatario 
+    nombre="Camila" 
+    mail="camila20@gmail.com">
+    </destinatario>
+
+    <remitente 
+    nombre="Pablo" 
+    mail="pablito@gmail.com">
+    </remitente>
+
+    <asunto>Tarea pendiente</asunto>
+    <texto 
+    parrafo="Hola Camila, te envio la tarea que el profesor ha mandado para la proxima semana, que te mejores." 
+    archivos_adjuntos="tarea1 Math.pdf">
+    </texto>
+</mail>           

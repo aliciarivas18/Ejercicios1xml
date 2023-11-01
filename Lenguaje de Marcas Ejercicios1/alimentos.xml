@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<alimentos>
+    <legumbres>
+        <garbanzos tipo="cocidos" calorias="1090">Garbanzos</garbanzos>
+         <lentejas tipo="estofadas" calorias="690">Lentejas</lentejas>
+          <alubias tipo="pintas" calorias="285">Alubias</alubias>
+           <guisantes tipo="secos" calorias="346">Guisantes</guisantes>
+            <habas tipo="rehogadas" calorias="100">Habas</habas>
+             <judias tipo="fabada" calorias="1300">Judias</judias>
+    </legumbres>
+    <verduras>
+        <esparragos tipo="blancos" calorias="15">Esparragos</esparragos>
+        <pimientos tipo="asados" calorias="55">Pimientos</pimientos>
+        <berenjenas tipo="parrilla" calorias="28">Berenjenas</berenjenas>
+        <tomates tipo="fritos" calorias="71">Tomates</tomates>
+        <patatas tipo="fitas" calorias="234">Patatas</patatas>
+        <apio tipo="fresco" calorias="9">Apio</apio> 
+    </verduras>
+    <pescados>
+        <calamares tipo="frito" calorias="118">Calamares</calamares>
+        <anchoas tipo="en aceite" calorias="185">Anchoas</anchoas>
+        <merluza tipo="plancha" calorias="92">Merluza</merluza>
+        <sardinas tipo="fresca" calorias="145">Sardinas</sardinas>
+        <atun tipo="en aceite" calorias="274">Atún</atun>
+        <salmon tipo="ahumado" calorias="210">Salmón</salmon>
+    </pescados>
+    <aperitivos>
+        <almendras tipo="fitas" calorias="589">Almendras</almendras>
+        <ensaladilla tipo="rusa" calorias="152">Ensaladilla</ensaladilla>
+        <croquetas tipo="caseras" calorias="102">Croquetas</croquetas>
+        <aceitunas tipo="rellenas" calorias="221">Aceitunas</aceitunas>
+        <patatas tipo="chips" calorias="568">Patatas</patatas>
+        <gambas tipo="cocidas" calorias="102">Gambas</gambas>
+    </aperitivos>
+    <frutas>
+        <aguacate tipo="fresco" calorias="136">Aguacate</aguacate>
+        <platano tipo="fresco" calorias="84">Plátano</platano>
+        <cerezas tipo="fresco" calorias="58">Cerezas</cerezas>
+        <piña tipo="fresco" calorias="50">Piña</piña>
+        <pera tipo="fresco" calorias="70">Pera</pera>
+        <kiwi tipo="fresco" calorias="73">Kiwi</kiwi>
+    </frutas>
+    <carnes>
+        <ternera tipo="escalope" calorias="326">Ternera</ternera>
+        <cordero tipo="asado" calorias="575">Cordero</cordero>
+        <cochinillo tipo="horno" calorias="825">Cochinillo</cochinillo>
+        <cerdo tipo="asado" calorias="844">Cerdo</cerdo>
+        <pollo tipo="parrilla" calorias="120">Pollo</pollo>
+        <pato tipo="asado" calorias="232">Pato</pato>
+        </carnes>
+    <bebidas>
+        <cubalibre tipo="ron" calorias="327">Cubalibre</cubalibre>
+        <cerveza tipo="negra" calorias="110">Cerveza</cerveza>
+        <whiski tipo="solo" calorias="499">Whiski</whiski>
+        <vino tipo="tinto" calorias="170">Vino</vino>
+        <cava tipo="brut" calorias="80">Cava</cava>
+        <sangria tipo="con alcohol" calorias="421">Sangría</sangria>
+    </bebidas>
+    <varios>
+        <raviolis tipo="carne" calorias="536">Raviolis</raviolis>
+        <canalones tipo="pollo" calorias="780">Canalones</canalones>
+        <chocolate tipo="con leche" calorias="655">Chocolate</chocolate>
+        <helado tipo="vainilla" calorias="259">Helado</helado>
+        <pizza tipo="basica" calorias="300">Pizza</pizza>
+        <pan tipo="blanco" calorias="130">Pan</pan>
+     </varios>
+</alimentos>

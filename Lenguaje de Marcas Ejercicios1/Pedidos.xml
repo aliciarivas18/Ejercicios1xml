@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido idPedido="1">  
+    <destinatario>Pedro Martín Martinez</destinatario>
+        <articulo>Table Samsung Galaxy Tab 48.</articulo>
+        <direccion calle="Virgen de la cruz 2" piso="séptimo piso" letra="A"></direccion>
+        <fecha_entrega dia="17" mes="10" año="2022"></fecha_entrega>
+        </pedido>
+       
+    <pedido idPedido="2"> 
+    <destinatario>Juana Perez</destinatario>
+        <articulo>Impresora HP DeskJet 2722e.</articulo>
+        <direccion calle="Los Manzanos 20" piso="primer piso" letra="D"></direccion>
+        <fecha_entrega dia="11" mes="10" año="2022"></fecha_entrega>
+        </pedido>
+    
+    <pedido idPedido="3">  
+    <destinatario>Andrés Rodriguez</destinatario>
+        <articulo>Apple Watch SE.</articulo>
+        <direccion calle="Irlanda 9" piso="tercer piso" letra="C"></direccion>
+        <fecha_entrega dia="20" mes="11" año="2022"></fecha_entrega>
+        </pedido>
+      
+</pedidos>
